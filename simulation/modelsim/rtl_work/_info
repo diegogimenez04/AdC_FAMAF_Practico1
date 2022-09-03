@@ -1,0 +1,167 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/simulation/modelsim
+vadder
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1662217198
+!i10b 1
+!s100 a3zDN1NYD4EHE0kQDg6Iz2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0G;:C>2WabDf1=9>eC5km1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1662150016
+8/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/adder.sv
+F/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/adder.sv
+!i122 2
+L0 3 7
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1662217198.000000
+!s107 /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1|/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/adder.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work +incdir+/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1
+Z9 tCvgOpt 0
+valu
+R1
+R2
+!i10b 1
+!s100 P?<dn1cTFK2MV@fY>>:jf2
+R3
+I;T1DKbU]Il5MkYD2]Le_[3
+R4
+S1
+R0
+w1661957630
+8/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/alu.sv
+F/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/alu.sv
+!i122 3
+L0 1 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/alu.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1|/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/alu.sv|
+!i113 1
+R7
+R8
+R9
+vexecute
+R1
+R2
+!i10b 1
+!s100 IHO[hZlj0KWM6bYRU`D:@2
+R3
+IGC]iTE2QGdzWCd7GZU;Mf0
+R4
+S1
+R0
+w1662214107
+8/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/execute.sv
+F/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/execute.sv
+!i122 4
+L0 1 14
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/execute.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1|/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/execute.sv|
+!i113 1
+R7
+R8
+R9
+vexecute_tb
+R1
+R2
+!i10b 1
+!s100 K:PjS;cT<LOKQdODznX[_1
+R3
+I8L?Xg`jn]<dIBJc2Z1n`F1
+R4
+S1
+R0
+w1662217192
+8/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/execute_tb.sv
+F/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/execute_tb.sv
+!i122 5
+L0 1 51
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/execute_tb.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1|/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/execute_tb.sv|
+!i113 1
+R7
+R8
+R9
+vmux2
+R1
+R2
+!i10b 1
+!s100 XfdfLdSb9dmK[VUYkeA:Q1
+R3
+IH8=nBIR`<gH:MnCfS29X60
+R4
+S1
+R0
+w1662150020
+8/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/mux2.sv
+F/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/mux2.sv
+!i122 1
+L0 3 8
+R5
+r1
+!s85 0
+31
+Z10 !s108 1662217197.000000
+!s107 /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/mux2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1|/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/mux2.sv|
+!i113 1
+R7
+R8
+R9
+vsl2
+R1
+!s110 1662217197
+!i10b 1
+!s100 `c@h0_TfTnn`3CajieZiC2
+R3
+IWfD2>8AEd8mMaTieGCYR03
+R4
+S1
+R0
+w1662150022
+8/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/sl2.sv
+F/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/sl2.sv
+!i122 0
+L0 3 9
+R5
+r1
+!s85 0
+31
+R10
+!s107 /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/sl2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1|/home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/sl2.sv|
+!i113 1
+R7
+R8
+R9

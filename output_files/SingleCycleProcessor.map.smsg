@@ -1,0 +1,5 @@
+Warning (10273): Verilog HDL warning at testbench_signext.sv(43): extended using "x" or "z" File: /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/testbench_signext.sv Line: 43
+Warning (10273): Verilog HDL warning at testbench_flopr.sv(34): extended using "x" or "z" File: /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/testbench_flopr.sv Line: 34
+Warning (10273): Verilog HDL warning at alu_tb.sv(54): extended using "x" or "z" File: /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/alu_tb.sv Line: 54
+Warning (10273): Verilog HDL warning at regfile_tb.sv(88): extended using "x" or "z" File: /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/regfile_tb.sv Line: 88
+Warning (10273): Verilog HDL warning at maindec_tb.sv(35): extended using "x" or "z" File: /home/diego/hard-drive/Facultad/3A/AdC/Quartus/Practico1/maindec_tb.sv Line: 35

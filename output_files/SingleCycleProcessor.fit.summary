@@ -1,0 +1,16 @@
+Fitter Status : Failed - Sun Aug 28 18:30:26 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : SingleCycleProcessor
+Top-level Entity Name : alu
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 351 / 22,320 ( 2 % )
+    Total combinational functions : 351 / 22,320 ( 2 % )
+    Dedicated logic registers : 0 / 22,320 ( 0 % )
+Total registers : 0
+Total pins : 197 / 154 ( 128 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
