@@ -1,4 +1,4 @@
-module fetch (input logic PCSrc_F, clk, reset,
+module fetch #(N=64) (input logic PCSrc_F, clk, reset,
 	input logic [63:0] PCBranch_F,
 	output logic [63:0] imem_addr_F);
 
